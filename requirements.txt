@@ -1,0 +1,46 @@
+tqdm
+firebase_admin
+datetime
+transformers
+requests==2.27.0
+quart_cors
+uvicorn
+httptools
+nltk
+tweepy
+praw
+black
+pyyaml
+pytz
+quart
+azure-storage-blob
+hypercorn==0.14.3
+azure-identity==1.14.0
+azure-search-documents==11.4.0b8
+pdf2image
+# youtube-transcript-api
+langchain
+# celery
+openai
+# tiktoken
+python-dotenv
+nltk
+# pypdf
+# docx2txt
+# python-pptx
+pytube
+# azure-ai-formrecognizer
+# markdown
+# azure-cognitiveservices-vision-computervision
+# azure-cognitiveservices-speech
+# tiktoken
+langchainhub
+google-generativeai
+langchain-google-genai
+langchain_experimental
+spookyai
+apscheduler
+anthropic
+aioredis
+arxiv
+PyMuPDF

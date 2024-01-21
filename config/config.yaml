@@ -1,0 +1,5 @@
+apiKey: "W0jY4BtoMdX9HDX4CYHfWIrECZu1"
+agentID: "jacks_research_agent"
+agentName: "Jack's Research Agent"
+agentImage: "https://www.shutterstock.com/image-photo/innovative-ai-robot-tutor-helping-600nw-2271198751.jpg"
+arxivQuery: "ti:cognitive AND ti:architecture"
